@@ -21,6 +21,8 @@ khaledJob.innerHTML = "Project Manager";
 
 Concatenation*/
 
+var pikoTaroSkill = document.getElementById('alias3');
+pikoTaroSkill.innerHTML = "Concatenation";
 
 
 /*4. Replace the n/a for Snoop with the gangsta lorem ipsum*/

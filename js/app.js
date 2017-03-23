@@ -27,7 +27,8 @@ pikoTaroSkill.innerHTML = "Concatenation";
 
 /*4. Replace the n/a for Snoop with the gangsta lorem ipsum*/
 
-
+var snoopTalks = document.getElementsByClassName("profile");
+snoopTalks[0].innerHTML = "Lorizzle i'm in the shizzle shiznit sit things, pimpin' adipiscing fo shizzle. Nullizzle sapien velizzle, bow wow wow volutpizzle, suscipizzle quis, gravida vizzle, arcu. Break yo neck, yall eget sheezy. Shut the shizzle up erizzle. Fusce izzle dolizzle dapibizzle i'm in the shizzle tempus crunk. Mauris boofron nibh izzle turpis. My shizz in fo shizzle my nizzle. For sure eleifend rhoncizzle tellivizzle. In pot check out this fo shizzle dictumst. Crazy dapibizzle. Curabitur tellus urna, pretium crazy, mattizzle ac, eleifend vitae, nunc. Gangster suscipizzle. That's the shizzle semper velit sizzle i saw beyonces tizzles and my pizzle went crizzle."
 
 /*5. Relace the n/a for Samuel L Jackson with his lorem ipsum*/
 

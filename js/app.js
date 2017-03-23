@@ -8,27 +8,13 @@ var taytayName = document.getElementById('name1');
 
 taytayName.innerHTML = "Tay-Tay";
 
-//var changeSpecial = document.getElementById("today");
-
-//changeSpecial.innerHTML = thur;
-
-/*document.createElement("p");
-newPara.id = "newSpecials";
-newPara.innerHTML = wed;
-main.appendChild(newPara);*/
-
-/*for(var i = 0; i<list.length; i++){
-  //console.log(list[i]);
-  var liElements = document.createElement("li"); //make a box/container to store data
-  liElements.className = "items"; //labeling the box/container
-  liElements.innerHTML = list[i]; //putting data in the box/container
-  buy.appendChild(liElements); //storing the box/container in the HTML document*/
-
 
 /*2. Replace the n/a with the following: 
 
 Project Manager*/
 
+var khaledJob = document.getElementById('position2');
+khaledJob.innerHTML = "Project Manager";
 
 
 /*3. Replace the n/a with the following:
@@ -61,3 +47,16 @@ Append this div element to the aliasBox div.*/
 
 //Final Boss
 /*8. Create your own profile.*/
+
+
+/*document.createElement("p");
+newPara.id = "newSpecials";
+newPara.innerHTML = wed;
+main.appendChild(newPara);*/
+
+/*for(var i = 0; i<list.length; i++){
+  //console.log(list[i]);
+  var liElements = document.createElement("li"); //make a box/container to store data
+  liElements.className = "items"; //labeling the box/container
+  liElements.innerHTML = list[i]; //putting data in the box/container
+  buy.appendChild(liElements); //storing the box/container in the HTML document*/

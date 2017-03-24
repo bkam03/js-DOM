@@ -40,7 +40,11 @@ jacksonSays[2].innerHTML = "Normally, both your asses would be dead as fucking f
 
 Append this div element to the nameBox div*/
 
- 
+ var chuckName = document.createElement("div");
+ chuckName.id = "name7";
+ chuckName.innerHTML = "Chuck Norris";
+ nameBox.appendChild(chuckName);
+
 
 /*7. Create a div element for Grimmace and give it an id of "alias8". Inside this div element, give it the contents of "The Purple Monster".
 
